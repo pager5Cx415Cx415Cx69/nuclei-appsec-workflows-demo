@@ -1,4 +1,4 @@
-## Nuclei Demos..
+## Nuclei Demos...
 
 #### CVE Exploit
 
